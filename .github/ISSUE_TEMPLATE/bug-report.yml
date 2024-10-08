@@ -40,8 +40,8 @@ body:
         Which minecraft version do you used?
       options:
         - 1.12.2
-      validations:
-        required: true
+    validations:
+      required: true
 
   - type: input
     id: forge-version
