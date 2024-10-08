@@ -13,6 +13,9 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
 
+/**
+ * The entry class for the Minecraft mod.
+ */
 @Mod(modid = InsanityCraft.MODID, name = InsanityCraft.NAME, version = InsanityCraft.VERSION)
 public class InsanityCraft
 {
