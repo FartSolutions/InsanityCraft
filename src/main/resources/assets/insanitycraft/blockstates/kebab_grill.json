@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": {
+            "model": "insanitycraft:kebab_grill"
+        },
+        "has_skewer=true": {
+            "model": "insanitycraft:kebab_grill"
+        },
+        "has_skewer=false": {
+            "model": "insanitycraft:kebab_grill"
+        }
+    }
+}

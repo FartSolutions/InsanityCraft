@@ -1,0 +1,21 @@
+[
+	{
+		"modid": "insanitycraft",
+		"name": "InsanityCraft",
+		"description": "Insanity things and stuff",
+		"version": "${version}",
+		"mcversion": "${mc_version}",
+		"url": "",
+		"updateUrl": "",
+		"authorList": [
+			"AlBuSoft"
+		],
+		"credits": "AlBuSoft",
+		"logoFile": "",
+		"screenshots": [],
+		"useDependencyInformation": true,
+		"dependencies": [
+			"forge"
+		]
+	}
+]

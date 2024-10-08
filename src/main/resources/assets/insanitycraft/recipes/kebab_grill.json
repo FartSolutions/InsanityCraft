@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i ",
+        "gbg",
+        "bcb"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "g": {
+            "item": "minecraft:iron_bars"
+        },
+        "b": {
+            "item": "minecraft:iron_block"
+        },
+        "c": [
+            {
+                "item": "minecraft:coal",
+                "data": 0
+            },
+            {
+                "item": "minecraft:coal",
+                "data": 1
+            }
+        ]
+    },
+    "result": {
+        "item": "insanitycraft:kebab_grill",
+        "count": 1
+    }
+}
